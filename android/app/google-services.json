@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1977428712",
+    "project_id": "pretzel-eab3d",
+    "storage_bucket": "pretzel-eab3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1977428712:android:ea3bf17d5356f5b4d4375d",
+        "android_client_info": {
+          "package_name": "com.example.pretzel_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJBrxyVonxjglbnZW7h4z0srcrXxJXjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
