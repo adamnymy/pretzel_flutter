@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDcRTDulT3ktRsaQ1xMvNwWbizTgt1ikc4',
+    apiKey: '',
     appId: '1:1977428712:web:4a2c353e24e6a980d4375d',
     messagingSenderId: '1977428712',
     projectId: 'pretzel-eab3d',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDtJBrxyVonxjglbnZW7h4z0srcrXxJXjI',
+    apiKey: '',
     appId: '1:1977428712:android:ea3bf17d5356f5b4d4375d',
     messagingSenderId: '1977428712',
     projectId: 'pretzel-eab3d',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAYFy1QgjRX_m-8bwCGOvwact6nsxb-G3g',
+    apiKey: '',
     appId: '1:1977428712:ios:a4e9eabce3f94974d4375d',
     messagingSenderId: '1977428712',
     projectId: 'pretzel-eab3d',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAYFy1QgjRX_m-8bwCGOvwact6nsxb-G3g',
+    apiKey: '',
     appId: '1:1977428712:ios:a4e9eabce3f94974d4375d',
     messagingSenderId: '1977428712',
     projectId: 'pretzel-eab3d',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDcRTDulT3ktRsaQ1xMvNwWbizTgt1ikc4',
+    apiKey: ',
     appId: '1:1977428712:web:dcda09fb76e608bbd4375d',
     messagingSenderId: '1977428712',
     projectId: 'pretzel-eab3d',
